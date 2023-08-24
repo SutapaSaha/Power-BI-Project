@@ -1,2 +1,5 @@
 # Power-BI-Project
-Projects related to Power BI is stored here
+# Preparing a dashboard of AdventureWorks and Marvel Market Report.
+# Dataset was provided during my Udemy Certification in Microsoft Power BI for Business Intelligence Desktop version
+
+
